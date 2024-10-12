@@ -53,7 +53,7 @@ SQLTalk leverages advanced natural language processing to interpret user queries
      ```bash
      cp .env.example .env.local
      ```
-   - Open `.env.local` and replace `AIzaSyDmZgqLpW1QTlR9AWQhdnREygfxKfMZg8w` with your actual Gemini API key:
+   - Open `.env.local` and replace `AIzaSyBOuFYjROa1oZl6fuCUqHVebqhePZJxnbI` with your actual Gemini API key:
      ```
      NEXT_PUBLIC_GEMINI_API_KEY=your-actual-gemini-api-key-here
      ```
